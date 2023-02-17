@@ -99,7 +99,6 @@ Also I was able to provide implementations a basic producer and consumer in pyth
 
 ## Roadmap
 
-- Fix consumer as its currently not working correctly.
 - Add client in Golang.
 
 ## Authors
